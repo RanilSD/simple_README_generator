@@ -34,9 +34,7 @@
 
   ## Demo
   
-
-
-https://github.com/RanilSD/simple_README_generator/assets/139150974/d2eb0ecb-4cc4-4bfe-8413-381af53299bc
+[readme_generator_video.webm](https://github.com/RanilSD/simple_README_generator/assets/139150974/f747ce3e-2f9c-4ea1-81f6-769cf6787cf0)
 
 
 
