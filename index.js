@@ -1,4 +1,4 @@
-// packages needed for this application
+// packages needed for this app
 
 const fs = require('fs');
 const inquirer = require('inquirer');
@@ -184,7 +184,7 @@ const init = () => {
     return inquirer.prompt(questions);
 }
 
-// Function call to initialize app
+// Function call to activate app
 
 init()
     .then(userInput => {
