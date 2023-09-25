@@ -34,6 +34,7 @@
 
   ## Demo
 
+  https://github.com/RanilSD/simple_README_generator/blob/main/video/readme_generator_video.webm
 
   ## Questions
   Have questions about this project?  
