@@ -33,7 +33,11 @@
   No tests have been written for this project.
 
   ## Demo
-  https://github.com/RanilSD/simple_README_generator/blob/main/video/generator_demo.mp4
+  
+
+
+https://github.com/RanilSD/simple_README_generator/assets/139150974/d2eb0ecb-4cc4-4bfe-8413-381af53299bc
+
 
 
   ## Questions
