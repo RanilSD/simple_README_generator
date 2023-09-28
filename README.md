@@ -17,12 +17,15 @@
 
   ## Installation
   To use this you must have VSCode, GitBash, and Node.js installed and running on your machine.
+  once all the proper software is installed.....
+  Go to the GitHub then copy and clone the project repo to your machine
 
   ## Usage
-  - Once this repo is downloaded onto your machine. 
-  - Make sure all the node modules are installed and activated. 
+  - Once this repo is cloned onto your machine. 
+  - Make sure all the node modules are installed and activated by running "npm i @inquirer8.2.4" in your command line
   - Then in the command line simply type "node index.js". 
   - Then take your time and answer all the questions that you are prompted with.
+  - Once completed then the newly created README will appear into your dist file.
 
   
 
@@ -44,5 +47,5 @@
   Email: ranilsd86@gmail.com
 
   ## Credits
-  Ranil Dissanayaka, This README was greated by the project generator itself.
+  Ranil Dissanayaka, This README was created originally by the project generator itself, and then augmented later by adding the demo video.
 
