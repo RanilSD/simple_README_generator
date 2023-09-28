@@ -32,7 +32,7 @@
   ## Questions
   Have questions about this project?  
   GitHub: https://github.com/SampleName  
-  Email: SampleEmail
+  Email: SampleEmail@gmail.com
 
   ## Credits
   Sample Name
